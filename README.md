@@ -1,6 +1,6 @@
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=4483B1&random=false&width=435&lines=Hello+world%2C+I'm+Janelle+%E2%9C%A8)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=4483B1&random=false&width=435&lines=Hello+world%2C+I'm+Janelle+%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
