@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently enrolled in the Get Coding program
 - 🌱 I’m currently learning JavaScript, HTML, and CSS
-- 👯 I’m looking forward to learning React.js in the next module!
+- 🤓 I’m looking forward to learning React.js in the next module!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a dog that looks like a cow 🐮
 
