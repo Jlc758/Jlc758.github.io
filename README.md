@@ -21,3 +21,6 @@
 
 <a href="https://jlc758.github.io/Get-Coding-Module-1/">Mental Health & Wellbeing Tracker</a>
 
+<p align="right">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=6000&pause=1000&color=4A1977E6&random=false&width=435&lines=More+to+come..+stay+tuned!" alt="Typing SVG" /></a>
+</p>
