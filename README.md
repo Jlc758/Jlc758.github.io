@@ -10,19 +10,22 @@
 
 
 - 🔭 I’m currently enrolled in the Get Coding program
-- 🌱 I’m currently learning JavaScript, HTML, and CSS
-- 🤓 I’m looking forward to learning React.js in the next module!
+- 🌱 I’ve recently finished the ReactJS module & I am looking forward to learning about backend development soon!
+- 🤓 I’m looking forward to learning as much as I can
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a dog that looks like a cow 🐮
 
 <br>
 
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Projects</b>
 
-<a href="https://jlc758.github.io/Get-Coding-Module-1/">Mental Health & Wellbeing Tracker</a>
+<a href="https://jlc758.github.io/Get-Coding-Module-1/">Mental Health & Wellbeing Tracker</a> <br>
 <a href="https://jlc758.github.io/BookNook/">BookNook</a>
-
 
 <p align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=6000&pause=1000&color=4A1977E6&random=false&width=435&lines=More+to+come..+stay+tuned!" alt="Typing SVG" /></a>
+
+<img width=200px src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+
 </p>
